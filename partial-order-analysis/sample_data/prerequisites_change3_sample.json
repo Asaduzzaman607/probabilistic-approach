@@ -1,0 +1,222 @@
+[
+  {
+    "lms-id": "ratio_proportion_change3-148",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-087",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-104",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-100",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-084",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-066",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-040",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-017",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-050",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-056",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-030",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-032",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-010",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-007",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-025",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change3-cms-078",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  }
+]

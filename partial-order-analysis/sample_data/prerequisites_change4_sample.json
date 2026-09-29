@@ -1,0 +1,224 @@
+[
+  {
+    "lms-id": "ratio_proportion_mix4-063",
+    "prerequisites": [
+      [
+        "NumeratorQuantity1",
+        "DenominatorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "DenominatorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4-047",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "DenominatorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4-058",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4a-cms-034",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4a-cms-053",
+    "prerequisites": [
+      [
+        "NumeratorQuantity2",
+        "DenominatorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4a-cms-052",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4a-cms-089",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "DenominatorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4a-cms-065",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_mix4a-cms-082",
+    "prerequisites": [
+      [
+        "NumeratorQuantity1",
+        "DenominatorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "B"
+  },
+  {
+    "lms-id": "ratio_proportion_change4b-cms-006",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change4b-cms-086",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change4b-cms-012",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change4b-cms-094",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity1"
+      ],
+      [
+        "NumeratorQuantity2",
+        "NumeratorQuantity1"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change4b-cms-035",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  },
+  {
+    "lms-id": "ratio_proportion_change4b-cms-089",
+    "prerequisites": [
+      [
+        "DenominatorQuantity1",
+        "NumeratorQuantity2"
+      ],
+      [
+        "NumeratorQuantity1",
+        "NumeratorQuantity2"
+      ]
+    ],
+    "prompt_variant": "A"
+  }
+]

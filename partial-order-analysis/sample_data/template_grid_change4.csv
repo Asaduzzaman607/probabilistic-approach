@@ -1,0 +1,7 @@
+problem_type,unknown_slot,given_set,n_problems
+change_find_amount,NumeratorQuantity1,initial+percent,55
+change_find_percent,NumeratorQuantity2,change+initial,54
+change_find_percent,NumeratorQuantity2,change+final,44
+prop_find_part,NumeratorQuantity1,percent+total,64
+prop_find_percent,NumeratorQuantity2,part+total,67
+prop_find_total,DenominatorQuantity1,part+percent,61

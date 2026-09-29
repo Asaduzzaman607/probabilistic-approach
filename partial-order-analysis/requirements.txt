@@ -1,0 +1,12 @@
+# Core dependencies -- required by every script in code/ and code/pipeline/
+# (data loading, stats, and the figure scripts).
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+
+# Only required for code/pipeline/run_study_cli.py --stage annotate, which
+# calls the Gemini API to (re-)generate prerequisite annotations from
+# scratch. Not needed to run any other stage, or any script in code/ --
+# uncomment if you specifically want to re-run annotation.
+# google-genai>=0.3
